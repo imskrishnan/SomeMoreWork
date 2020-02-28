@@ -18,6 +18,7 @@ public class Hello {
         System.out.println(myTotal);
         
         //myLastOne var stores the result
+        System.out.println("The result reads as follows...");
         int myLastOne = 1000 - myTotal;
         
         //this is the statement to print result to the console

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41a64dd5-5d9b-429f-9d8a-c10cfd579ca1" name="Default Changelist" comment="" />
+    <list default="true" id="41a64dd5-5d9b-429f-9d8a-c10cfd579ca1" name="Default Changelist" comment="Added some println statement">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1579565460734</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Bye Bye at the end.">
+      <created>1582919172416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582919172416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,7 +93,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Bye Bye at the end." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Bye Bye at the end." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="359" y="0" width="1126" height="824" key="CommitChangelistDialog2" timestamp="1582919486234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="359" y="0" width="1126" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582919486234" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1582918060124">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -102,6 +122,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1483" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582917459948" />
+    <state x="261" y="81" key="Vcs.Push.Dialog.v2" timestamp="1582919174186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="81" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582919174186" />
     <state x="404" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1582918014901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
