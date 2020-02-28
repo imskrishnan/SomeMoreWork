@@ -23,5 +23,7 @@ public class Hello {
         //this is the statement to print result to the console
         System.out.println(myLastOne);
         System.out.println("This is Santhosh Krishnan Signing off!\n\n");
+        System.out.println("Bye Bye!");
+
     }
 }
